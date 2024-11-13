@@ -1,7 +1,8 @@
 import './App.css'
 import Header from "./components/Header"
 import { Provider } from 'react-redux'
-import AppStore from './uti;s/AppStore'
+import AppStore from './utils/AppStore'
+import UserContext from './utils/UserContext'
 
 function App() {
 

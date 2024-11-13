@@ -1,6 +1,6 @@
 import {useState } from "react";
 import {Link} from "react-router-dom";
-import {LOGO} from "../utisl/constansts"
+import {LOGO} from "../utils/constants"
 import Darkmode from "./Darkmode";
 import UserContext  from "../utils/UserContext";
 

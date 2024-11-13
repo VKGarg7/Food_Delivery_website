@@ -1,7 +1,11 @@
-import { createContext } from "react";
+import React from 'react'
 
-const UserContext = createContext({
-    loggedUser: "Default value",
-});
+function UserContext() {
+  return (
+    <div>
+      
+    </div>
+  )
+}
 
-export default UserContext;
+export default UserContext
